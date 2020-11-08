@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Wilirambo\\source\\repos\\CalculateDayPayment\\CalculateDayPayment\\CalculateDayPayment.csproj",
+      "projectUniqueName": "C:\\Users\\Wilirambo\\source\\repos\\CalculateDayPayment\\CalculateDayPayment\\CalculateDayPayment\\CalculateDayPayment.csproj",
       "projectName": "CalculateDayPayment",
-      "projectPath": "C:\\Users\\Wilirambo\\source\\repos\\CalculateDayPayment\\CalculateDayPayment\\CalculateDayPayment.csproj",
+      "projectPath": "C:\\Users\\Wilirambo\\source\\repos\\CalculateDayPayment\\CalculateDayPayment\\CalculateDayPayment\\CalculateDayPayment.csproj",
       "packagesPath": "C:\\Users\\Wilirambo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Wilirambo\\source\\repos\\CalculateDayPayment\\CalculateDayPayment\\obj\\",
+      "outputPath": "C:\\Users\\Wilirambo\\source\\repos\\CalculateDayPayment\\CalculateDayPayment\\CalculateDayPayment\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
