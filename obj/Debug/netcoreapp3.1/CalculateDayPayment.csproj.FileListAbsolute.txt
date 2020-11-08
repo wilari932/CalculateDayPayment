@@ -1,0 +1,13 @@
+C:\Users\Wilirambo\source\repos\CalculateDayPayment\CalculateDayPayment\bin\Debug\netcoreapp3.1\CalculateDayPayment.exe
+C:\Users\Wilirambo\source\repos\CalculateDayPayment\CalculateDayPayment\bin\Debug\netcoreapp3.1\CalculateDayPayment.deps.json
+C:\Users\Wilirambo\source\repos\CalculateDayPayment\CalculateDayPayment\bin\Debug\netcoreapp3.1\CalculateDayPayment.runtimeconfig.json
+C:\Users\Wilirambo\source\repos\CalculateDayPayment\CalculateDayPayment\bin\Debug\netcoreapp3.1\CalculateDayPayment.runtimeconfig.dev.json
+C:\Users\Wilirambo\source\repos\CalculateDayPayment\CalculateDayPayment\bin\Debug\netcoreapp3.1\CalculateDayPayment.dll
+C:\Users\Wilirambo\source\repos\CalculateDayPayment\CalculateDayPayment\bin\Debug\netcoreapp3.1\CalculateDayPayment.pdb
+C:\Users\Wilirambo\source\repos\CalculateDayPayment\CalculateDayPayment\obj\Debug\netcoreapp3.1\CalculateDayPayment.csprojAssemblyReference.cache
+C:\Users\Wilirambo\source\repos\CalculateDayPayment\CalculateDayPayment\obj\Debug\netcoreapp3.1\CalculateDayPayment.csproj.CoreCompileInputs.cache
+C:\Users\Wilirambo\source\repos\CalculateDayPayment\CalculateDayPayment\obj\Debug\netcoreapp3.1\CalculateDayPayment.AssemblyInfoInputs.cache
+C:\Users\Wilirambo\source\repos\CalculateDayPayment\CalculateDayPayment\obj\Debug\netcoreapp3.1\CalculateDayPayment.AssemblyInfo.cs
+C:\Users\Wilirambo\source\repos\CalculateDayPayment\CalculateDayPayment\obj\Debug\netcoreapp3.1\CalculateDayPayment.dll
+C:\Users\Wilirambo\source\repos\CalculateDayPayment\CalculateDayPayment\obj\Debug\netcoreapp3.1\CalculateDayPayment.pdb
+C:\Users\Wilirambo\source\repos\CalculateDayPayment\CalculateDayPayment\obj\Debug\netcoreapp3.1\CalculateDayPayment.genruntimeconfig.cache
